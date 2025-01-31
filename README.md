@@ -4,55 +4,55 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-upload-dbs 0.3](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3) - 2023-08-10
+[llm 0.21](https://github.com/simonw/llm/releases/tag/0.21) - 2025-01-31
 
-[datasette 1.0a3](https://github.com/simonw/datasette/releases/tag/1.0a3) - 2023-08-09
+[llm-anthropic 0.12](https://github.com/simonw/llm-anthropic/releases/tag/0.12) - 2025-01-31
 
-[llm-llama-cpp 0.1a0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.1a0) - 2023-08-01
+[llm-mistral 0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - 2025-01-30
 
-[sqlite-utils-litecli 0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - 2023-07-26
+[llm-gemini 0.9](https://github.com/simonw/llm-gemini/releases/tag/0.9) - 2025-01-22
 
-[llm-gpt4all 0.1.1](https://github.com/simonw/llm-gpt4all/releases/tag/0.1.1) - 2023-07-25
+[datasette-enrichments-slow 0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - 2025-01-15
 
-[dclient 0.2](https://github.com/simonw/dclient/releases/tag/0.2) - 2023-07-24
+[datasette-enrichments 0.5](https://github.com/datasette/datasette-enrichments/releases/tag/0.5) - 2025-01-15
 
-[llm 0.6.1](https://github.com/simonw/llm/releases/tag/0.6.1) - 2023-07-24
+[sqlite-utils-tui 0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
 
-[asgi-replay 0.1a0](https://github.com/simonw/asgi-replay/releases/tag/0.1a0) - 2023-07-24
+[llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - 2024-12-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
-[How I make annotated presentations](http://simonwillison.net/2023/Aug/6/annotated-presentations/) - 2023-08-06
+[OpenAI o3-mini, now available in LLM](https://simonwillison.net/2025/Jan/31/o3-mini/) - 2025-01-31
 
-[Weeknotes: Plugins for LLM, sqlite-utils and Datasette](http://simonwillison.net/2023/Aug/5/weeknotes-plugins/) - 2023-08-05
+[A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/) - 2025-01-24
 
-[Catching up on the weird world of LLMs](http://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - 2023-08-03
+[Anthropic's new Citations API](https://simonwillison.net/2025/Jan/24/anthropics-new-citations-api/) - 2025-01-24
 
-[Run Llama 2 on your own Mac using LLM and Homebrew](http://simonwillison.net/2023/Aug/1/llama-2-mac/) - 2023-08-01
+[Six short video demos of LLM and Datasette projects](https://simonwillison.net/2025/Jan/22/office-hours-demos/) - 2025-01-22
 
-[sqlite-utils now supports plugins](http://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/) - 2023-07-24
+[DeepSeek-R1 and exploring DeepSeek-R1-Distill-Llama-8B](https://simonwillison.net/2025/Jan/20/deepseek-r1/) - 2025-01-20
 
-[Accessing Llama 2 from the command-line with the llm-replicate plugin](http://simonwillison.net/2023/Jul/18/accessing-llama-2/) - 2023-07-18
+[My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends](https://simonwillison.net/2025/Jan/10/ai-predictions/) - 2025-01-10
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
 <!-- tils starts -->
-[Scroll to text fragments](https://til.simonwillison.net/html/scroll-to-text) - 2023-08-08
+[Geocoding from Python on macOS using pyobjc-framework-CoreLocation](https://til.simonwillison.net/python/pyobjc-framework-corelocation) - 2025-01-26
 
-[Checking if something is callable or async callable in Python](https://til.simonwillison.net/python/callable) - 2023-08-04
+[Downloading every video for a TikTok account](https://til.simonwillison.net/tiktok/download-all-videos) - 2025-01-19
 
-[axe-core and shot-scraper for accessibility audits](https://til.simonwillison.net/shot-scraper/axe-core) - 2023-07-30
+[Calculating the size of all LFS files in a repo](https://til.simonwillison.net/git/size-of-lfs-files) - 2024-12-25
 
-[Exploring the Overture Maps places data using DuckDB, sqlite-utils and Datasette](https://til.simonwillison.net/overture-maps/overture-maps-parquet) - 2023-07-27
+[Named Entity Resolution with dslim/distilbert-NER](https://til.simonwillison.net/llms/bert-ner) - 2024-12-24
 
-[Protocols in Python](https://til.simonwillison.net/python/protocols) - 2023-07-26
+[Fixes for datetime UTC warnings in Python](https://til.simonwillison.net/python/utc-warning-fix) - 2024-12-12
 
-[Using pytest-httpx to run intercepted requests through an in-memory Datasette instance](https://til.simonwillison.net/datasette/pytest-httpx-datasette) - 2023-07-25
+[Publishing a simple client-side JavaScript package to npm with GitHub Actions](https://til.simonwillison.net/npm/npm-publish-github-actions) - 2024-12-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
