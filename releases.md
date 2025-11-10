@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1982<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1983<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.2a0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.2a0) - ([15 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2025-11-10
+<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.5a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2025-11-10
 <br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.10a0](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.10a0) - ([17 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2025-11-10
@@ -219,8 +221,6 @@ Listing <!-- releases_count starts -->1982<!-- releases_count ends --> releases 
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
 <br />Datasette plugin for authentication using passwords
-* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
-<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
 <br />Datasette plugin for authenticating access using API tokens
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
