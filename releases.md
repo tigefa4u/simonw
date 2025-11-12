@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1997<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1998<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - ([11 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-11-12
+<br />Make selected Datasette databases and tables visible to the public
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2025-11-12
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a6](https://github.com/datasette/datasette-pins/releases/tag/0.1a6) - ([6 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-11-11
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->1997<!-- releases_count ends --> releases 
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a6](https://github.com/datasette/datasette-import/releases/tag/0.1a6) - ([3 releases total](https://github.com/datasette/datasette-import/releases)) - 2025-10-21
 <br />Tools for importing data into Datasette
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
-<br />Make selected Datasette databases and tables visible to the public
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
