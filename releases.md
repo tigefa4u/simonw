@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2009<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2010<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a1](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-25
+<br />LLM accounting for Datasette
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.23](https://github.com/simonw/llm-anthropic/releases/tag/0.23) - ([20 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-25
 <br />LLM access to models by Anthropic, including the Claude series
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2009<!-- releases_count ends --> releases 
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - 2025-11-18
-<br />LLM accounting for Datasette
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
