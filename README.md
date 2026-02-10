@@ -4,7 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[rodney v0.2.0](https://github.com/simonw/rodney/releases/tag/v0.2.0) - 2026-02-10
+[datasette-libfec 0.0.1a10](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a10) - 2026-02-10
+
+[rodney v0.3.0](https://github.com/simonw/rodney/releases/tag/v0.3.0) - 2026-02-10
 
 [sqlite-history-json 0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - 2026-02-09
 
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-pretty-traces 0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - 2026-02-08
 
 [datasette-packages 0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - 2026-02-08
-
-[datasette-libfec 0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - 2026-02-06
 
 [datasette-pins 0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - 2026-02-05
 <!-- recent_releases ends -->
