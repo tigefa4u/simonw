@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[chartroom 0.1](https://github.com/simonw/chartroom/releases/tag/0.1) - 2026-02-14
+[chartroom 0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - 2026-02-14
 
 [datasette-libfec 0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - 2026-02-12
 
