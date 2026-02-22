@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2110<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2111<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a1](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a1) - 2026-02-22
+<br />None
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a0](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a0) - 2026-02-20
 <br />datasette-files S3 backend
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a1](https://github.com/datasette/datasette-files/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-02-20
