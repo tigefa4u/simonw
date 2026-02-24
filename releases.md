@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2112<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2115<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3) - ([3 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-02-24
+<br />Send alerts from datasette-alerts to Discord
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a7](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a7) - ([6 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-02-24
+<br />None
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a1](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a1) - 2026-02-22
@@ -141,8 +145,6 @@ Listing <!-- releases_count starts -->2112<!-- releases_count ends --> releases 
 <br />Query databases and tables with AI assistance
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-11-08
 <br />API and UI for bulk loading data into Datasette from a URL
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a6](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6) - ([5 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-11-08
-<br />None
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a5](https://github.com/datasette/datasette-profiles/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-11-08
 <br />None
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a2](https://github.com/datasette/datasette-events-db/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-db/releases)) - 2025-11-08
@@ -189,8 +191,6 @@ Listing <!-- releases_count starts -->2112<!-- releases_count ends --> releases 
 <br />None
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
 <br />LLM plugin for models hosted by OpenRouter
-* **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
-<br />Send alerts from datasette-alerts to Discord
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
