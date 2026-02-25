@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2115<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2116<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
+<br />SwiftUI presentation software, every slide is a URL
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3) - ([3 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-02-24
 <br />Send alerts from datasette-alerts to Discord
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a7](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a7) - ([6 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-02-24
