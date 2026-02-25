@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2116<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2117<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a14](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a14) - ([14 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-25
+<br />None
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3) - ([3 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-02-24
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->2116<!-- releases_count ends --> releases 
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[chartroom](https://github.com/simonw/chartroom)**: [0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/chartroom/releases)) - 2026-02-14
 <br />CLI tool for creating charts
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - ([13 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-12
-<br />None
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-09
 <br />SQLite table history tracking using a JSON audit log
 * **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
