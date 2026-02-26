@@ -1,14 +1,22 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2121<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2127<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a17](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a17) - ([17 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-26
+<br />None
+* **[datasette-alerts-slack](https://github.com/datasette/datasette-alerts-slack)**: [0.1.0a2](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a2) - 2026-02-26
+<br />None
+* **[datasette-oauth](https://github.com/datasette/datasette-oauth)**: [0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
+<br />Datasette as an OAuth provider
+* **[datasette-alerts-desktop](https://github.com/datasette/datasette-alerts-desktop)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a3) - ([2 releases total](https://github.com/datasette/datasette-alerts-desktop/releases)) - 2026-02-26
+<br />None
+* **[datasette-alerts-ntfy](https://github.com/datasette/datasette-alerts-ntfy)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a1) - 2026-02-26
+<br />None
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a16](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a16) - ([16 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-26
-<br />None
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3) - ([3 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-02-24
