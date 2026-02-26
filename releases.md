@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2117<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2120<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a14](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a14) - ([14 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-25
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
+<br />An open source multi-tool for exploring and publishing data
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a16](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a16) - ([16 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-26
 <br />None
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->2117<!-- releases_count ends --> releases 
 <br />A Python package with a C module for haversine() - as a WASM experiment
 * **[sqlite-ast-conformance](https://github.com/simonw/sqlite-ast-conformance)**: [0.1](https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1) - 2026-01-30
 <br />A language independent conformance suite for implementations of a SQLite SELECT query parser
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - ([156 releases total](https://github.com/simonw/datasette/releases)) - 2026-01-29
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
 <br />None
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
