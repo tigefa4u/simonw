@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2129<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2130<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dclient](https://github.com/simonw/dclient)**: [0.5a1](https://github.com/simonw/dclient/releases/tag/0.5a1) - ([8 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-26
+* **[dclient](https://github.com/simonw/dclient)**: [0.5a2](https://github.com/simonw/dclient/releases/tag/0.5a2) - ([9 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-27
 <br />A client CLI utility for Datasette instances
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a17](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a17) - ([17 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-26
 <br />None
