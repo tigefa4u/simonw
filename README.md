@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dclient 0.5a2](https://github.com/simonw/dclient/releases/tag/0.5a2) - 2026-02-27
+[datasette-libfec 0.0.1a19](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a19) - 2026-03-04
 
-[datasette-libfec 0.0.1a17](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a17) - 2026-02-26
+[dclient 0.5a2](https://github.com/simonw/dclient/releases/tag/0.5a2) - 2026-02-27
 
 [datasette-alerts-slack 0.1.0a2](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a2) - 2026-02-26
 
