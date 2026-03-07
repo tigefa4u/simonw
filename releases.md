@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2131<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2132<!-- releases_count ends --> releases across <!-- project_count starts -->376<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-table-diagram](https://github.com/datasette/datasette-table-diagram)**: [0.1a0](https://github.com/datasette/datasette-table-diagram/releases/tag/0.1a0) - 2026-03-07
+<br />Show Entity Relationship diagrams of tables in Datasette
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a19](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a19) - ([18 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-04
 <br />None
 * **[dclient](https://github.com/simonw/dclient)**: [0.5a2](https://github.com/simonw/dclient/releases/tag/0.5a2) - ([9 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-27
