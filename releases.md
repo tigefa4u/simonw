@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2134<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2135<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-03-10
+<br />None
 * **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
 <br />LLM plugin providing tools for editing files
 * **[dclient](https://github.com/simonw/dclient)**: [0.5a3](https://github.com/simonw/dclient/releases/tag/0.5a3) - ([10 releases total](https://github.com/simonw/dclient/releases)) - 2026-03-07
@@ -391,8 +393,6 @@ Listing <!-- releases_count starts -->2134<!-- releases_count ends --> releases 
 <br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
-* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
-<br />None
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-homepage-table/releases)) - 2024-01-31
