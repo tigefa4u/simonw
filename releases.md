@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2138<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2139<!-- releases_count ends --> releases across <!-- project_count starts -->378<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a1](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a1) - 2026-03-17
+<br />None
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a20](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20) - ([19 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-17
 <br />None
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a2](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-17
