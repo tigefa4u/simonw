@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2136<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2137<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a2](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-17
+<br />None
 * **[llm](https://github.com/simonw/llm)**: [0.29](https://github.com/simonw/llm/releases/tag/0.29) - ([57 releases total](https://github.com/simonw/llm/releases)) - 2026-03-17
 <br />Access large language models from the command-line
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-03-10
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->2136<!-- releases_count ends --> releases 
 <br />None
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
 <br />Create executable documents that demonstrate an agent's work
-* **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a1](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a1) - 2026-02-22
-<br />None
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a0](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a0) - 2026-02-20
 <br />datasette-files S3 backend
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a1](https://github.com/datasette/datasette-files/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-02-20
