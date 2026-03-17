@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2137<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2138<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a20](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20) - ([19 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-17
+<br />None
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a2](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-17
 <br />None
 * **[llm](https://github.com/simonw/llm)**: [0.29](https://github.com/simonw/llm/releases/tag/0.29) - ([57 releases total](https://github.com/simonw/llm/releases)) - 2026-03-17
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->2137<!-- releases_count ends --> releases 
 <br />A client CLI utility for Datasette instances
 * **[datasette-table-diagram](https://github.com/datasette/datasette-table-diagram)**: [0.1a0](https://github.com/datasette/datasette-table-diagram/releases/tag/0.1a0) - 2026-03-07
 <br />Show Entity Relationship diagrams of tables in Datasette
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a19](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a19) - ([18 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-04
-<br />None
 * **[datasette-alerts-slack](https://github.com/datasette/datasette-alerts-slack)**: [0.1.0a2](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a2) - 2026-02-26
 <br />None
 * **[datasette-oauth](https://github.com/datasette/datasette-oauth)**: [0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
