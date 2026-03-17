@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.29](https://github.com/simonw/llm/releases/tag/0.29) - 2026-03-17
+
 [datasette-scribe 0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - 2026-03-10
 
 [llm-tools-edit 0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-alerts-slack 0.1.0a2](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a2) - 2026-02-26
 
 [datasette-oauth 0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
-
-[datasette-alerts-desktop 0.1.0a3](https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a3) - 2026-02-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52](https://simonwillison.net/2026/Mar/17/mini-and-nano/) - 2026-03-17
+
 [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/) - 2026-03-14
 
 [Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/) - 2026-03-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 2026-03-04
 
 [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/) - 2026-02-25
-
-[Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/) - 2026-02-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
