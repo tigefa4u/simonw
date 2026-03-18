@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-sidebar 0.0.1a1](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1) - 2026-03-18
+
+[datasette-vite 0.0.1a3](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3) - 2026-03-18
+
+[datasette 1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - 2026-03-18
+
 [datasette-town 0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - 2026-03-18
 
 [datasette-user-profiles 0.1.0a2](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2) - 2026-03-18
@@ -12,13 +18,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 [datasette-libfec 0.0.1a20](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20) - 2026-03-17
 
-[datasette-vite 0.0.1a2](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a2) - 2026-03-17
-
 [llm 0.29](https://github.com/simonw/llm/releases/tag/0.29) - 2026-03-17
-
-[datasette-scribe 0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - 2026-03-10
-
-[llm-tools-edit 0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

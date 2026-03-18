@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2143<!-- releases_count ends --> releases across <!-- project_count starts -->380<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2146<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a1](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1) - 2026-03-18
+<br />None
+* **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a3](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-18
+<br />None
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-03-18
 <br />None
 * **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a2](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-03-18
@@ -10,8 +16,6 @@ Listing <!-- releases_count starts -->2143<!-- releases_count ends --> releases 
 * **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a1](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a1) - 2026-03-17
 <br />None
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a20](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20) - ([19 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-17
-<br />None
-* **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a2](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-17
 <br />None
 * **[llm](https://github.com/simonw/llm)**: [0.29](https://github.com/simonw/llm/releases/tag/0.29) - ([57 releases total](https://github.com/simonw/llm/releases)) - 2026-03-17
 <br />Access large language models from the command-line
@@ -33,8 +37,6 @@ Listing <!-- releases_count starts -->2143<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
-<br />An open source multi-tool for exploring and publishing data
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3) - ([3 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-02-24
