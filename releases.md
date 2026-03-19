@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2146<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2147<!-- releases_count ends --> releases across <!-- project_count starts -->382<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a1](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a1) - 2026-03-19
+<br />None
 * **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a1](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1) - 2026-03-18
 <br />None
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a3](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-18
