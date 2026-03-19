@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2147<!-- releases_count ends --> releases across <!-- project_count starts -->382<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2150<!-- releases_count ends --> releases across <!-- project_count starts -->383<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a2](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-03-19
+<br />LLM accounting for Datasette
+* **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a2](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-debug-gotham/releases)) - 2026-03-19
+<br />None
+* **[datasette-debug-bar](https://github.com/datasette/datasette-debug-bar)**: [0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
+<br />None
 * **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a1](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a1) - 2026-03-19
 <br />None
 * **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a1](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1) - 2026-03-18
@@ -14,8 +20,6 @@ Listing <!-- releases_count starts -->2147<!-- releases_count ends --> releases 
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-03-18
 <br />None
 * **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a2](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-03-18
-<br />None
-* **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a1](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a1) - 2026-03-17
 <br />None
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a20](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20) - ([19 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-17
 <br />None
@@ -129,8 +133,6 @@ Listing <!-- releases_count starts -->2147<!-- releases_count ends --> releases 
 <br />Load LLM templates from Fabric
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
 <br />Enrich data by prompting LLMs
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a1](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-25
-<br />LLM accounting for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
