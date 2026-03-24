@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2150<!-- releases_count ends --> releases across <!-- project_count starts -->383<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2151<!-- releases_count ends --> releases across <!-- project_count starts -->383<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a2](https://github.com/datasette/datasette-files/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-23
+<br />Upload files to Datasette
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a2](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-03-19
 <br />LLM accounting for Datasette
 * **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a2](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-debug-gotham/releases)) - 2026-03-19
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->2150<!-- releases_count ends --> releases 
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a0](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a0) - 2026-02-20
 <br />datasette-files S3 backend
-* **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a1](https://github.com/datasette/datasette-files/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-02-20
-<br />Upload files to Datasette
 * **[datasette-endpoints](https://github.com/datasette/datasette-endpoints)**: [0.1](https://github.com/datasette/datasette-endpoints/releases/tag/0.1) - 2026-02-19
 <br />Plugin to add a /-/endpoints debug page listing all configured endpoints
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.29](https://github.com/simonw/llm-gemini/releases/tag/0.29) - ([49 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-02-19
