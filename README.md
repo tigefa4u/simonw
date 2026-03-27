@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-showboat 0.1a2](https://github.com/simonw/datasette-showboat/releases/tag/0.1a2) - 2026-03-27
+
 [datasette-sql-comments-metadata 0.0.1a2](https://github.com/datasette/datasette-sql-comments-metadata/releases/tag/0.0.1a2) - 2026-03-27
 
 [datasette-llm 0.1a2](https://github.com/datasette/datasette-llm/releases/tag/0.1a2) - 2026-03-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-debug-gotham 0.1.0a2](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2) - 2026-03-19
 
 [datasette-debug-bar 0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
-
-[datasette-ca460 0.0.1a1](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a1) - 2026-03-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
