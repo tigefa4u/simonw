@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-llm-accountant 0.1a3](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a3) - 2026-04-02
+
 [llm-gemini 0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - 2026-04-02
 
 [datasette-llm 0.1a6](https://github.com/datasette/datasette-llm/releases/tag/0.1a6) - 2026-04-01
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
 
 [llm 0.30](https://github.com/simonw/llm/releases/tag/0.30) - 2026-03-31
-
-[llm-echo 0.4](https://github.com/simonw/llm-echo/releases/tag/0.4) - 2026-03-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/) - 2026-04-02
+
 [Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer](https://simonwillison.net/2026/Mar/30/mr-chatterbox/) - 2026-03-30
 
 [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/) - 2026-03-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/) - 2026-03-21
 
 [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/) - 2026-03-19
-
-[GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52](https://simonwillison.net/2026/Mar/17/mini-and-nano/) - 2026-03-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

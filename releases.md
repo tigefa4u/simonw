@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2173<!-- releases_count ends --> releases across <!-- project_count starts -->386<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2174<!-- releases_count ends --> releases across <!-- project_count starts -->386<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a3](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-04-02
+<br />LLM accounting for Datasette
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - ([50 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-04-02
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a6](https://github.com/datasette/datasette-llm/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->2173<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files-s3/releases)) - 2026-03-25
 <br />datasette-files S3 backend
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a2](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-03-19
-<br />LLM accounting for Datasette
 * **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a2](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-debug-gotham/releases)) - 2026-03-19
 <br />None
 * **[datasette-debug-bar](https://github.com/datasette/datasette-debug-bar)**: [0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
