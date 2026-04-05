@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[scan-for-secrets 0.1](https://github.com/simonw/scan-for-secrets/releases/tag/0.1) - 2026-04-05
+
+[research-llm-apis 2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
+
 [datasette-llm-accountant 0.1a3](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a3) - 2026-04-02
 
 [llm-gemini 0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - 2026-04-02
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-extract 0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - 2026-04-01
 
 [datasette-llm-usage 0.2a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0) - 2026-04-01
-
-[llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
-
-[llm 0.30](https://github.com/simonw/llm/releases/tag/0.30) - 2026-03-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
