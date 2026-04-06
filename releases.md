@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2179<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2181<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.1](https://github.com/datasette/datasette-ports/releases/tag/0.1) - 2026-04-06
+* **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.2](https://github.com/datasette/datasette-ports/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-06
 <br />Find all currently running Datasette instances and list their ports
-* **[scan-for-secrets](https://github.com/simonw/scan-for-secrets)**: [0.2](https://github.com/simonw/scan-for-secrets/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/scan-for-secrets/releases)) - 2026-04-05
+* **[scan-for-secrets](https://github.com/simonw/scan-for-secrets)**: [0.3](https://github.com/simonw/scan-for-secrets/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/scan-for-secrets/releases)) - 2026-04-06
 <br />Scan for secrets in files you plan to share
 * **[research-llm-apis](https://github.com/simonw/research-llm-apis)**: [2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
 <br />Research into the HTTP APIs from various LLM providers.
