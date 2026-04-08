@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2188<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2189<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cron](https://github.com/datasette/datasette-cron)**: [0.0.1a1](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a1) - 2026-04-08
+<br />None
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/datasette-turnstile/releases)) - 2026-04-08
 <br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - ([40 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2026-04-08

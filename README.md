@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-cron 0.0.1a1](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a1) - 2026-04-08
+
 [datasette-turnstile 0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - 2026-04-08
 
 [datasette-graphql 3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - 2026-04-08
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-ports 0.2](https://github.com/datasette/datasette-ports/releases/tag/0.2) - 2026-04-06
 
 [scan-for-secrets 0.3](https://github.com/simonw/scan-for-secrets/releases/tag/0.3) - 2026-04-06
-
-[research-llm-apis 2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/) - 2026-04-08
+
 [Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/) - 2026-04-07
 
 [The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/) - 2026-04-03
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer](https://simonwillison.net/2026/Mar/30/mr-chatterbox/) - 2026-03-30
 
 [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/) - 2026-03-27
-
-[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/) - 2026-03-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
