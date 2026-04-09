@@ -1,8 +1,18 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2189<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2194<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-alerts-slack](https://github.com/datasette/datasette-alerts-slack)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a3) - ([2 releases total](https://github.com/datasette/datasette-alerts-slack/releases)) - 2026-04-09
+<br />None
+* **[datasette-alerts-ntfy](https://github.com/datasette/datasette-alerts-ntfy)**: [0.1.0a2](https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-alerts-ntfy/releases)) - 2026-04-09
+<br />None
+* **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a4](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a4) - ([4 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-04-09
+<br />Send alerts from datasette-alerts to Discord
+* **[datasette-alerts-desktop](https://github.com/datasette/datasette-alerts-desktop)**: [0.1.0a5](https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a5) - ([3 releases total](https://github.com/datasette/datasette-alerts-desktop/releases)) - 2026-04-09
+<br />None
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a8](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a8) - ([7 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-04-09
+<br />None
 * **[datasette-cron](https://github.com/datasette/datasette-cron)**: [0.0.1a1](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a1) - 2026-04-08
 <br />None
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/datasette-turnstile/releases)) - 2026-04-08
@@ -75,22 +85,12 @@ Listing <!-- releases_count starts -->2189<!-- releases_count ends --> releases 
 <br />A client CLI utility for Datasette instances
 * **[datasette-table-diagram](https://github.com/datasette/datasette-table-diagram)**: [0.1a0](https://github.com/datasette/datasette-table-diagram/releases/tag/0.1a0) - 2026-03-07
 <br />Show Entity Relationship diagrams of tables in Datasette
-* **[datasette-alerts-slack](https://github.com/datasette/datasette-alerts-slack)**: [0.1.0a2](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a2) - 2026-02-26
-<br />None
 * **[datasette-oauth](https://github.com/datasette/datasette-oauth)**: [0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
 <br />Datasette as an OAuth provider
-* **[datasette-alerts-desktop](https://github.com/datasette/datasette-alerts-desktop)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a3) - ([2 releases total](https://github.com/datasette/datasette-alerts-desktop/releases)) - 2026-02-26
-<br />None
-* **[datasette-alerts-ntfy](https://github.com/datasette/datasette-alerts-ntfy)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a1) - 2026-02-26
-<br />None
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26
 <br />Datasette plugin for authenticating access using API tokens
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
-* **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3) - ([3 releases total](https://github.com/datasette/datasette-alerts-discord/releases)) - 2026-02-24
-<br />Send alerts from datasette-alerts to Discord
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a7](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a7) - ([6 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-02-24
-<br />None
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-endpoints](https://github.com/datasette/datasette-endpoints)**: [0.1](https://github.com/datasette/datasette-endpoints/releases/tag/0.1) - 2026-02-19
