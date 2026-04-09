@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-libfec 0.0.1a21](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a21) - 2026-04-09
+
+[datasette-gzip 0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - 2026-04-09
+
+[asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) - 2026-04-09
+
 [datasette-alerts-slack 0.1.0a3](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a3) - 2026-04-09
 
 [datasette-alerts-ntfy 0.1.0a2](https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a2) - 2026-04-09
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-alerts-desktop 0.1.0a5](https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a5) - 2026-04-09
 
 [datasette-alerts 0.0.1a8](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a8) - 2026-04-09
-
-[datasette-cron 0.0.1a1](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a1) - 2026-04-08
-
-[datasette-turnstile 0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - 2026-04-08
-
-[datasette-graphql 3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - 2026-04-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

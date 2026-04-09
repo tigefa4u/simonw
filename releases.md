@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2194<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2197<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a21](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a21) - ([20 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-04-09
+<br />None
+* **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2026-04-09
+<br />Add gzip compression to Datasette
+* **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2026-04-09
+<br />gzip middleware for ASGI applications, extracted from Starlette
 * **[datasette-alerts-slack](https://github.com/datasette/datasette-alerts-slack)**: [0.1.0a3](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a3) - ([2 releases total](https://github.com/datasette/datasette-alerts-slack/releases)) - 2026-04-09
 <br />None
 * **[datasette-alerts-ntfy](https://github.com/datasette/datasette-alerts-ntfy)**: [0.1.0a2](https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-alerts-ntfy/releases)) - 2026-04-09
@@ -74,8 +80,6 @@ Listing <!-- releases_count starts -->2194<!-- releases_count ends --> releases 
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-03-18
 <br />None
 * **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a2](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-03-18
-<br />None
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a20](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20) - ([19 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-03-17
 <br />None
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-03-10
 <br />None
@@ -573,8 +577,6 @@ Listing <!-- releases_count starts -->2194<!-- releases_count ends --> releases 
 <br />Import data from Socrata into Datasette
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 <br />Screenshots of Datasette, taken using shot-scraper
-* **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
-<br />gzip middleware for ASGI applications, extracted from Starlette
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
 <br /> Convert TTML to JSON
 * **[webvtt-to-json](https://github.com/simonw/webvtt-to-json)**: [0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/webvtt-to-json/releases)) - 2022-09-25
@@ -619,8 +621,6 @@ Listing <!-- releases_count starts -->2194<!-- releases_count ends --> releases 
 <br />Create a SQLite database containing your data from Google Calendar
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
 <br />Copy database files into an in-memory database on startup
-* **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2022-04-28
-<br />Add gzip compression to Datasette
 * **[datasette-total-page-time](https://github.com/simonw/datasette-total-page-time)**: [0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
 <br />Add a note to the Datasette footer measuring the total page load time
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18
