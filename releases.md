@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2198<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2199<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a27](https://github.com/simonw/datasette/releases/tag/1.0a27) - ([159 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-15
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
 <br />Find all currently running Datasette instances and list their ports
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a21](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a21) - ([20 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-04-09
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->2198<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a3](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-18
 <br />None
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-03-18
 <br />None
 * **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a2](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-03-18
