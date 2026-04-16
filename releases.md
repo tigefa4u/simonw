@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2203<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2204<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a3](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-ca460/releases)) - 2026-04-16
+* **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a4](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-ca460/releases)) - 2026-04-16
 <br />None
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - ([22 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-04-16
 <br />LLM access to models by Anthropic, including the Claude series

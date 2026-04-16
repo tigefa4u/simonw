@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-ca460 0.0.1a3](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a3) - 2026-04-16
+[datasette-ca460 0.0.1a4](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a4) - 2026-04-16
 
 [llm-anthropic 0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - 2026-04-16
 
