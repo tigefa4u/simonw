@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2201<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2203<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a3](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-ca460/releases)) - 2026-04-16
+<br />None
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - ([22 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-04-16
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - ([6 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-04-15
@@ -74,8 +76,6 @@ Listing <!-- releases_count starts -->2201<!-- releases_count ends --> releases 
 * **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a2](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-debug-gotham/releases)) - 2026-03-19
 <br />None
 * **[datasette-debug-bar](https://github.com/datasette/datasette-debug-bar)**: [0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
-<br />None
-* **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a1](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a1) - 2026-03-19
 <br />None
 * **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a1](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1) - 2026-03-18
 <br />None

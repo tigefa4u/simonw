@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-ca460 0.0.1a3](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a3) - 2026-04-16
+
 [llm-anthropic 0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - 2026-04-16
 
 [datasette-export-database 0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - 2026-04-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-gzip 0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - 2026-04-09
 
 [asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) - 2026-04-09
-
-[datasette-alerts-slack 0.1.0a3](https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a3) - 2026-04-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
