@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2209<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2210<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a5](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a5) - ([5 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-04-17
+<br />None
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - ([160 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-17
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a4](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a4) - ([4 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-04-17
-<br />None
 * **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a2](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-sidebar/releases)) - 2026-04-17
 <br />None
 * **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a4](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-ca460/releases)) - 2026-04-16

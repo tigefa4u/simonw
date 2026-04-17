@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-user-profiles 0.1.0a5](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a5) - 2026-04-17
+
 [datasette-public 0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - 2026-04-17
 
 [datasette 1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - 2026-04-17
-
-[datasette-user-profiles 0.1.0a4](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a4) - 2026-04-17
 
 [datasette-sidebar 0.0.1a2](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a2) - 2026-04-17
 
