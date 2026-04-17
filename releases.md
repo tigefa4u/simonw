@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2207<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2209<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
+<br />Make selected Datasette databases and tables visible to the public
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - ([160 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-17
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a4](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a4) - ([4 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-04-17
 <br />None
 * **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a2](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-sidebar/releases)) - 2026-04-17
@@ -13,8 +17,6 @@ Listing <!-- releases_count starts -->2207<!-- releases_count ends --> releases 
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - ([6 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-04-15
 <br />Export a copy of a mutable SQLite database on demand
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a27](https://github.com/simonw/datasette/releases/tag/1.0a27) - ([159 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-15
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
 <br />Find all currently running Datasette instances and list their ports
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a21](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a21) - ([20 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-04-09
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->2207<!-- releases_count ends --> releases 
 <br />Run JavaScript code and WASM in a Deno sandbox
 * **[datasette-transactions](https://github.com/datasette/datasette-transactions)**: [0.1a0](https://github.com/datasette/datasette-transactions/releases/tag/0.1a0) - 2026-01-10
 <br />API for executing multiple queries within a transaction
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - ([12 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-01-06
-<br />Make selected Datasette databases and tables visible to the public
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-27
 <br />Python port of MicroQuickJS
 * **[preview-server](https://github.com/simonw/preview-server)**: [0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - ([5 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-22
