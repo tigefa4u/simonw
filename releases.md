@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2204<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2207<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a4](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a4) - ([4 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-04-17
+<br />None
+* **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a2](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-sidebar/releases)) - 2026-04-17
+<br />None
 * **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a4](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-ca460/releases)) - 2026-04-16
 <br />None
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - ([22 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-04-16
@@ -77,13 +81,9 @@ Listing <!-- releases_count starts -->2204<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-debug-bar](https://github.com/datasette/datasette-debug-bar)**: [0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
 <br />None
-* **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a1](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1) - 2026-03-18
-<br />None
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a3](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-18
 <br />None
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-03-18
-<br />None
-* **[datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)**: [0.1.0a2](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-user-profiles/releases)) - 2026-03-18
 <br />None
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-03-10
 <br />None
