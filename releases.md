@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2218<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2219<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-05-04
+<br />None
 * **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a3](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-04
 <br />None
 * **[llm](https://github.com/simonw/llm)**: [0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - ([61 releases total](https://github.com/simonw/llm/releases)) - 2026-04-29
@@ -143,8 +145,6 @@ Listing <!-- releases_count starts -->2218<!-- releases_count ends --> releases 
 <br />A Python package with a C module for haversine() - as a WASM experiment
 * **[sqlite-ast-conformance](https://github.com/simonw/sqlite-ast-conformance)**: [0.1](https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1) - 2026-01-30
 <br />A language independent conformance suite for implementations of a SQLite SELECT query parser
-* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
-<br />None
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
 <br />Datasette plugin for making the internal database visible for debugging
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
