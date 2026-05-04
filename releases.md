@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2219<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2220<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-05-04
+* **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a4](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-04
 <br />None
-* **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a3](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-04
+* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-05-04
 <br />None
 * **[llm](https://github.com/simonw/llm)**: [0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - ([61 releases total](https://github.com/simonw/llm/releases)) - 2026-04-29
 <br />Access large language models from the command-line
