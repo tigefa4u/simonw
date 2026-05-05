@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2220<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2222<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-05
+<br />LLM integration plugin for other plugins to depend on
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05
+<br />Debug plugin for LLM providing an echo model
 * **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a4](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-04
 <br />None
 * **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-05-04
@@ -65,8 +69,6 @@ Listing <!-- releases_count starts -->2220<!-- releases_count ends --> releases 
 <br />LLM accounting for Datasette
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - ([50 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-04-02
 <br />LLM plugin to access Google's Gemini family of models
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a6](https://github.com/datasette/datasette-llm/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
-<br />LLM integration plugin for other plugins to depend on
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
 <br />Enrich data by prompting LLMs
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - ([16 releases total](https://github.com/datasette/datasette-extract/releases)) - 2026-04-01
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->2220<!-- releases_count ends --> releases 
 <br />Track usage of LLM tokens in a SQLite table
 * **[llm-all-models-async](https://github.com/simonw/llm-all-models-async)**: [0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
 <br />Register async versions of models from LLM plugins that only provide a sync version
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.4](https://github.com/simonw/llm-echo/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-03-31
-<br />Debug plugin for LLM providing an echo model
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-30
 <br />Upload files to Datasette
 * **[llm-mrchatterbox](https://github.com/simonw/llm-mrchatterbox)**: [0.1.1](https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-mrchatterbox/releases)) - 2026-03-30
