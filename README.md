@@ -4,7 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-paper 0.0.1a4](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a4) - 2026-05-07
+[datasette-paper 0.0.1a5](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a5) - 2026-05-07
+
+[datasette-auth-tailscale 0.0.1a1](https://github.com/datasette/datasette-auth-tailscale/releases/tag/0.0.1a1) - 2026-05-07
 
 [datasette-referrer-policy 0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
 
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-plugin-router 0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - 2026-05-04
 
 [llm 0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - 2026-04-29
-
-[llm-openai-via-codex 0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/) - 2026-05-07
+
 [Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/) - 2026-05-06
 
 [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/) - 2026-05-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/) - 2026-04-27
 
 [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/) - 2026-04-24
-
-[Extract PDF text in your browser with LiteParse for the web](https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/) - 2026-04-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2227<!-- releases_count ends --> releases across <!-- project_count starts -->394<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2229<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a4](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-07
+* **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a5](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-07
+<br />None
+* **[datasette-auth-tailscale](https://github.com/datasette/datasette-auth-tailscale)**: [0.0.1a1](https://github.com/datasette/datasette-auth-tailscale/releases/tag/0.0.1a1) - 2026-05-07
 <br />None
 * **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
 <br />Set the Referrer-Policy header for a Datasette site
