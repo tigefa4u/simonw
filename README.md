@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - 2026-05-07
+
 [datasette-paper 0.0.1a6](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a6) - 2026-05-07
 
 [datasette-auth-tailscale 0.0.1a1](https://github.com/datasette/datasette-auth-tailscale/releases/tag/0.0.1a1) - 2026-05-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-sheets 0.0.1a4](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a4) - 2026-05-04
 
 [datasette-plugin-router 0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - 2026-05-04
-
-[llm 0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - 2026-04-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

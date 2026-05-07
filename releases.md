@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2230<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2231<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a6](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a6) - ([6 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-07
 <br />None
 * **[datasette-auth-tailscale](https://github.com/datasette/datasette-auth-tailscale)**: [0.0.1a1](https://github.com/datasette/datasette-auth-tailscale/releases/tag/0.0.1a1) - 2026-05-07
@@ -73,8 +75,6 @@ Listing <!-- releases_count starts -->2230<!-- releases_count ends --> releases 
 <br />Research into the HTTP APIs from various LLM providers.
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a3](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-04-02
 <br />LLM accounting for Datasette
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - ([50 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-04-02
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
 <br />Enrich data by prompting LLMs
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - ([16 releases total](https://github.com/datasette/datasette-extract/releases)) - 2026-04-01
