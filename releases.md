@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2233<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2234<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a3](https://github.com/datasette/datasette-town/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-05-08
+<br />None
 * **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a8](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a8) - ([8 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-08
 <br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07
@@ -98,8 +100,6 @@ Listing <!-- releases_count starts -->2233<!-- releases_count ends --> releases 
 * **[datasette-debug-bar](https://github.com/datasette/datasette-debug-bar)**: [0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
 <br />None
 * **[datasette-vite](https://github.com/datasette/datasette-vite)**: [0.0.1a3](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-vite/releases)) - 2026-03-18
-<br />None
-* **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a2](https://github.com/datasette/datasette-town/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-03-18
 <br />None
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-03-10
 <br />None
