@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2232<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2233<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a7](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a7) - ([7 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-07
+* **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a8](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a8) - ([8 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-08
 <br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07
 <br />LLM plugin to access Google's Gemini family of models
