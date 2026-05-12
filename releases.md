@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2238<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2239<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a0](https://github.com/datasette/datasette-agent/releases/tag/0.1a0) - 2026-05-12
+<br />An LLM-powered agent for Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
 <br />Access large language models from the command-line
 * **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a11](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a11) - ([11 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-12
