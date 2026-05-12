@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2237<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2238<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
+<br />Access large language models from the command-line
 * **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a11](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a11) - ([11 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-12
 <br />None
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a3](https://github.com/datasette/datasette-town/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-05-08
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->2237<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-05-04
 <br />None
-* **[llm](https://github.com/simonw/llm)**: [0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - ([61 releases total](https://github.com/simonw/llm/releases)) - 2026-04-29
-<br />Access large language models from the command-line
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 <br />Access OpenAI models via an existing Codex subscription
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.6](https://github.com/simonw/llm-openrouter/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-04-20
