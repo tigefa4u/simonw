@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2241<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2242<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - ([161 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-12
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
 <br />Generate images in Datasette Agent
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->2241<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - ([160 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-17
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-sidebar](https://github.com/datasette/datasette-sidebar)**: [0.0.1a2](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-sidebar/releases)) - 2026-04-17
 <br />None
 * **[datasette-ca460](https://github.com/datasette/datasette-ca460)**: [0.0.1a4](https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-ca460/releases)) - 2026-04-16
