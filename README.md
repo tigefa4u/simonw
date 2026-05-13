@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-cron 0.0.1a2](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a2) - 2026-05-13
+
+[datasette-paper 0.0.1a12](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a12) - 2026-05-13
+
+[datasette-sidebar 0.0.1a3](https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a3) - 2026-05-13
+
+[datasette-user-profiles 0.1.0a6](https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a6) - 2026-05-12
+
+[datasette-vite 0.0.1a4](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a4) - 2026-05-12
+
 [datasette 1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - 2026-05-12
 
 [datasette-agent-openai-imagegen 0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
 
 [datasette-agent-charts 0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
-
-[datasette-agent 0.1a0](https://github.com/datasette/datasette-agent/releases/tag/0.1a0) - 2026-05-12
-
-[llm 0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - 2026-05-12
-
-[datasette-paper 0.0.1a11](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a11) - 2026-05-12
-
-[datasette-town 0.0.1a3](https://github.com/datasette/datasette-town/releases/tag/0.0.1a3) - 2026-05-08
-
-[llm-gemini 0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - 2026-05-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
