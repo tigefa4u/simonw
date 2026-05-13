@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2247<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2249<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a2](https://github.com/datasette/datasette-scribe/releases/tag/0.2a2) - ([7 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-05-13
+<br />None
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a10](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a10) - ([8 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-05-13
+<br />None
 * **[datasette-cron](https://github.com/datasette/datasette-cron)**: [0.0.1a2](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-cron/releases)) - 2026-05-13
 <br />None
 * **[datasette-paper](https://github.com/datasette/datasette-paper)**: [0.0.1a12](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a12) - ([12 releases total](https://github.com/datasette/datasette-paper/releases)) - 2026-05-13
@@ -67,8 +71,6 @@ Listing <!-- releases_count starts -->2247<!-- releases_count ends --> releases 
 <br />Send alerts from datasette-alerts to Discord
 * **[datasette-alerts-desktop](https://github.com/datasette/datasette-alerts-desktop)**: [0.1.0a5](https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a5) - ([3 releases total](https://github.com/datasette/datasette-alerts-desktop/releases)) - 2026-04-09
 <br />None
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a8](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a8) - ([7 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-04-09
-<br />None
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/datasette-turnstile/releases)) - 2026-04-08
 <br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - ([40 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2026-04-08
@@ -106,8 +108,6 @@ Listing <!-- releases_count starts -->2247<!-- releases_count ends --> releases 
 * **[datasette-debug-gotham](https://github.com/datasette/datasette-debug-gotham)**: [0.1.0a2](https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2) - ([2 releases total](https://github.com/datasette/datasette-debug-gotham/releases)) - 2026-03-19
 <br />None
 * **[datasette-debug-bar](https://github.com/datasette/datasette-debug-bar)**: [0.0.1a1](https://github.com/datasette/datasette-debug-bar/releases/tag/0.0.1a1) - 2026-03-19
-<br />None
-* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a1](https://github.com/datasette/datasette-scribe/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-03-10
 <br />None
 * **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
 <br />LLM plugin providing tools for editing files

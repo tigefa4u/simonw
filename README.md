@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-scribe 0.2a2](https://github.com/datasette/datasette-scribe/releases/tag/0.2a2) - 2026-05-13
+
+[datasette-alerts 0.0.1a10](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a10) - 2026-05-13
+
 [datasette-cron 0.0.1a2](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a2) - 2026-05-13
 
 [datasette-paper 0.0.1a12](https://github.com/datasette/datasette-paper/releases/tag/0.0.1a12) - 2026-05-13
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-vite 0.0.1a4](https://github.com/datasette/datasette-vite/releases/tag/0.0.1a4) - 2026-05-12
 
 [datasette 1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - 2026-05-12
-
-[datasette-agent-openai-imagegen 0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
-
-[datasette-agent-charts 0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
