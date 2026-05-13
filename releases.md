@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2249<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2251<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a4](https://github.com/datasette/datasette-town/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-05-13
+<br />None
+* **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a5](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a5) - ([5 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-13
+<br />None
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.2a2](https://github.com/datasette/datasette-scribe/releases/tag/0.2a2) - ([7 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2026-05-13
 <br />None
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a10](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a10) - ([8 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-05-13
@@ -27,8 +31,6 @@ Listing <!-- releases_count starts -->2249<!-- releases_count ends --> releases 
 <br />An LLM-powered agent for Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
 <br />Access large language models from the command-line
-* **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a3](https://github.com/datasette/datasette-town/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-05-08
-<br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-auth-tailscale](https://github.com/datasette/datasette-auth-tailscale)**: [0.0.1a1](https://github.com/datasette/datasette-auth-tailscale/releases/tag/0.0.1a1) - 2026-05-07
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->2249<!-- releases_count ends --> releases 
 <br />LLM integration plugin for other plugins to depend on
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05
 <br />Debug plugin for LLM providing an echo model
-* **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a4](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-04
-<br />None
 * **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a3](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-05-04
 <br />None
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
