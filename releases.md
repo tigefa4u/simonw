@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2251<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2252<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
+<br />Rate limit Datasette requests by client IP address
 * **[datasette-town](https://github.com/datasette/datasette-town)**: [0.0.1a4](https://github.com/datasette/datasette-town/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-town/releases)) - 2026-05-13
 <br />None
 * **[datasette-sheets](https://github.com/datasette/datasette-sheets)**: [0.0.1a5](https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a5) - ([5 releases total](https://github.com/datasette/datasette-sheets/releases)) - 2026-05-13
