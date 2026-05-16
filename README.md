@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[inaturalist-clumper 0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15
+
 [datasette-llm-limits 0.1a0](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0) - 2026-05-15
 
 [datasette-agent 0.1a2](https://github.com/datasette/datasette-agent/releases/tag/0.1a2) - 2026-05-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-scribe 0.2a2](https://github.com/datasette/datasette-scribe/releases/tag/0.2a2) - 2026-05-13
 
 [datasette-alerts 0.0.1a10](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a10) - 2026-05-13
-
-[datasette-cron 0.0.1a2](https://github.com/datasette/datasette-cron/releases/tag/0.0.1a2) - 2026-05-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
